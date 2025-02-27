@@ -1,7 +1,7 @@
 # 🎮 Energy Nexus – AI-Powered Game Engine  
 **Final Project for CS 5350 - Fundamentals of Game Engine Design**  
 
-📺 **Watch the Demo:** [YouTube Video]([https://www.youtube.com/your-video-link](https://youtu.be/WJKGc9IaRrc))  
+📺 **Watch the Demo:** [YouTube Video]([[(https://youtu.be/WJKGc9IaRrc)]) 
 
 ---
 
