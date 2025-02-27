@@ -34,12 +34,6 @@ Developed using **C++, OpenGL, and IrrKlang**, this project integrates **AI-driv
 
 ---
 
-## **🎥 Demo Video**
-📺 **Watch the gameplay demonstration here:**  
-[![Energy Nexus Game Engine Demo](https://youtu.be/WJKGc9IaRrc)  
-
----
-
 ## **📌 Future Improvements**
 🔹 Enhance **AI behavior for smarter decision-making**  
 🔹 Implement **multiplayer turn-based strategy**  
