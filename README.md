@@ -5,6 +5,8 @@
 
 ---
 
+This project implements a custom game engine inspired by TensorRTS, integrating AI-driven mechanics, physics-based movement, and interactive gameplay elements. Built with C++, OpenGL, and IrrKlang, Energy Nexus enhances strategic decision-making through reinforcement learning-inspired movement constraints and a custom reward function.
+
 ## **🚀 Project Overview**  
 Energy Nexus is a physics-based **game engine project** inspired by **TensorRTS**, a strategic turn-based AI game.  
 Developed using **C++, OpenGL, and IrrKlang**, this project integrates **AI-driven mechanics** and interactive gameplay elements.
