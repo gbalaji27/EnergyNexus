@@ -36,7 +36,7 @@ Developed using **C++, OpenGL, and IrrKlang**, this project integrates **AI-driv
 
 ## **🎥 Demo Video**
 📺 **Watch the gameplay demonstration here:**  
-[![Energy Nexus Game Engine Demo]([https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/your-video-link](https://youtu.be/WJKGc9IaRrc))  
+[![Energy Nexus Game Engine Demo]([https://youtu.be/WJKGc9IaRrc])  
 
 ---
 
