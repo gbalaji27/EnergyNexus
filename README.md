@@ -1,7 +1,7 @@
 # 🎮 Energy Nexus – AI-Powered Game Engine  
 **Final Project for CS 5350 - Fundamentals of Game Engine Design**  
 
-📺 **Watch the Demo:** [YouTube Video]([https://youtu.be/WJKGc9IaRrc]) 
+📺 **Watch the Demo:** [YouTube Video](https://youtu.be/WJKGc9IaRrc) 
 
 ---
 
@@ -36,7 +36,7 @@ Developed using **C++, OpenGL, and IrrKlang**, this project integrates **AI-driv
 
 ## **🎥 Demo Video**
 📺 **Watch the gameplay demonstration here:**  
-[![Energy Nexus Game Engine Demo]([https://youtu.be/WJKGc9IaRrc])  
+[![Energy Nexus Game Engine Demo](https://youtu.be/WJKGc9IaRrc)  
 
 ---
 
