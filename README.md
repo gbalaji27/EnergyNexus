@@ -46,7 +46,7 @@ Developed using **C++, OpenGL, and IrrKlang**, this project integrates **AI-driv
 ## **📎 References & Credits**
 - 🎓 Developed as part of **CS 5350 - Game Engine Design**  
 - Inspired by **[TensorRTS Game AI](https://github.com/drchangliu/RL4SE/blob/main/CS4900GameAI/PA4-TensorRTS.md)**  
-- **Instructor:** [Professor Name]  
+- **Instructor:** [Dr. Chang Liu]  
 
 ---
 
